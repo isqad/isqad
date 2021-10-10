@@ -2,7 +2,7 @@
 
 ![isqad's GitHub stats](https://github-readme-stats.vercel.app/api?username=isqad&show_icons=true)
 
-![isqad on codewars](https://www.codewars.com/users/isqad/badges/micro)
+<a href="https://www.codewars.com/users/isqad" target="_blank">![isqad on codewars](https://www.codewars.com/users/isqad/badges/micro)</a>
 
 <!--
 **isqad/isqad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
