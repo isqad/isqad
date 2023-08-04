@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning C++ and Unreal Engine
 - [x] I’m currently learning Rust
+- [x] I’m currently learning Go
 
 <a href="https://www.codewars.com/users/isqad" target="_blank">![isqad on codewars](https://www.codewars.com/users/isqad/badges/micro)</a>
 
