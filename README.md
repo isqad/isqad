@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Unreal Engine
 - [x] I’m currently learning Rust
 
 <a href="https://www.codewars.com/users/isqad" target="_blank">![isqad on codewars](https://www.codewars.com/users/isqad/badges/micro)</a>
