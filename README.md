@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++ and Unreal Engine
+- 🌱 I’m currently learning C# and Unity
 - [x] I’m currently learning Rust
 - [x] I’m currently learning Go
 
